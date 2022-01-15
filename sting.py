@@ -100,3 +100,4 @@ logo = """
                     |__/ 
 """
 print '\033[1;32m[+]\033[1;36mAll Reports Has Been Sended Successfully               '           
+exit()
