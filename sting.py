@@ -42,8 +42,7 @@ try:
 	op = json.loads(jok.text)
 	print"\033[1;93mName\033[1;93m:\033[1;97m "+op["name"]
 time.sleep(0.5)
-user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
-time.sleep(0.05)              "
+user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')              "
     #author Name: Babar Ali
 time.sleep(1)
 print '\033[1;32m[+] 1 Report  Send Successfully '
