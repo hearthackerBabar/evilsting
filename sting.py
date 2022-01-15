@@ -90,23 +90,12 @@ print '\033[1;32m[+]\033[1;33m        Please Wait                               
 time.sleep(15)
 print '\033[1;32m[+]\033[1;31m500 Reports Has Been Send Successfully               '
 time.sleep(0.9)
-print '\033[1;31mNote: USE ONLY USERID OTHERWISE AUTHOR IS NOT RESPONSIBLE OF ANY YOUR MISTAKE '
-
-time.sleep(0.9)
-print '\033[1;32mNOTE: IF REPORTED ACCOUNT WILL NOT DISABLED IN 24 HOURS THEN YOU CAN CONTACT WITH AUTHOR '
-
+print "IF REPORTED ACCOUNT WILL NOT DISABLED THAN YOU CAN CONTACT TO AUTHOR  "
 time.sleep(0.9)
 print 
-    '\033[1;32mNote: CONTACT TO AUTHOR HE WILL TAKE ACTION ABOUT ID '
-#babar
+"SEND ID ON THIS NUMBER +923106931542  "
 time.sleep(0.9)
-print 
-    '\033[1;32mNote: SEND ACCOUNT ON THIS NUMBER +923106931542 '
-#babar
+print'\033[1;32m[+] \033[1;32m THANKS FOR USING DR REPORTER '
 time.sleep(0.9)
-print 
-    '\033[1;32m[+] \033[1;32m THANKS FOR USING DR REPORTER '
-time.sleep(0.9)
-print 
-    '\033[1;32m[+] \033[1;32m ALLAH hafiz goodbye '
+print'\033[1;32m[+] \033[1;32m ALLAH hafiz goodbye '
 exit()
