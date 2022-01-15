@@ -39,16 +39,16 @@ print """
 """    
 time.sleep(0.9)
 print '\033[1;31mNote: USE ONLY USERID OTHERWISE AUTHOR IS NOT RESPONSIBLE OF ANY YOUR MISTAKE '
-#
+#babar
 time.sleep(0.9)
 print '\033[1;31mIF REPORTED ACCOUNT WILL NOT DISABLED IN 24 HOURS THEN YOU CAN CONTACT WITH AUTHOR '
-#
+#babar
 time.sleep(0.9)
 print '\033[1;31mNote:CONTACT TO AUTHOR HE WILL TAKE ACTION ABOUT ID '
-#
+#babar
 time.sleep(0.9)
 print '\033[1;31mNote: SEND ACCOUNT ON THIS NUMBER +923106931542 '
-#
+#babar
 time.sleep(0.5)
 user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
 time.sleep(1)
