@@ -36,10 +36,9 @@ print """
 \033[1;91m           [☠️    \033[1;91mCountry: Pakistan  🇵🇰     ☠️\033[1;91m]
 
 \033[1;43m\033[1;37m         😈 PUT ACCOUNT USER ID FOR REPORT 😈           \033[1;0m
-""" 
-
-user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')             "
-    #author Name: Babar Ali
+"""    
+time.sleep(0.5)
+user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
 time.sleep(1)
 print '\033[1;32m[+] 1 Report  Send Successfully '
 time.sleep(1)
