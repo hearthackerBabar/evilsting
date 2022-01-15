@@ -96,5 +96,5 @@ time.sleep(1)
 logo = """
 \033[1;32m[+]\033[1;33mAll Reportes Has Been Sended Succesfully '
 \033[1;32m[+]\033[1;31mNote:\033[1;31mYou Can Contact To Author For Account Report '
-\033[1;32m[+]\033[1;31mNote:\033[1;31mFor Report Account Contact At This Number +92106931542 '
+\033[1;32m[+]\033[1;33m+923106931542 Contact For Reporting '
 exit()
