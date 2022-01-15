@@ -80,6 +80,7 @@ print '\033[1;32m[+]19 Reports Send Successfully '
 time.sleep(0.1)
 print '\033[1;32m[+]20 Reports Send Successfully '
 #fuck you copy waly
+print logo
 time.sleep(0.1)
 print '\033[1;32m[+]\033[1;36mFew Reports Has Been Sended Successfully               '  
 time.sleep(3)
@@ -93,8 +94,8 @@ for char in words:
     sys.stdout.write(char)
     sys.stdout.flush()
 #fuck you copy waly
-time.sleep(0.1)
-print '\033[1;32m[+] Hurry! 20 Reports Send Successfully '
+time.sleep(0.9)
+print'\033[1;32m[+] \033[1;33m thanks for using dr reporter good bye ALLAH hafiz '
 #fuck you copy waly
 time.sleep(0.9)
 print'\033[1;32m[+] \033[1;33m thanks for using dr reporter good bye ALLAH hafiz '
