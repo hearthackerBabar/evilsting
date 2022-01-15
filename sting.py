@@ -83,20 +83,22 @@ time.sleep(0.1)
 print '\033[1;32m[+]20 Reports Send Successfully '
 #fuck you copy waly
 time.sleep(0.1)
-print '\033[1;32m[+]\033[1;31mFew Reports Has Been Send Successfully               '  
+print '\033[1;32m[+]\033[1;35mFew Reports Has Been Sended Successfully               '  
 time.sleep(3)
 print '\033[1;32m[+]\033[1;31m500 Reports in Progress                           '  
+
 import sys
 from time import sleep
-words = "Please Wait... Dr Reporter is Working ...."
+words = "\033[1;32m[+]\033[1;33Please Wait... Dr Reporter is Working ...."
 for char in words:
     sleep(0.5)
     sys.stdout.write(char)
     sys.stdout.flush()
 time.sleep(15)
+#fuck you copy waly author Babar
 print '\033[1;32m[+]\033[1;32m500 Reports Has Been Send Successfully               '
 time.sleep(0.9)
 print'\033[1;32m[+] \033[1;32m THANKS FOR USING DR REPORTER '
 time.sleep(0.9)
 print'\033[1;32m[+] \033[1;32m ALLAH hafiz goodbye '
-exit()
+python2 sting.py()
