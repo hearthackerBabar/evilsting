@@ -90,11 +90,16 @@ for char in words:
     sleep(0.1)
     sys.stdout.write(char)
     sys.stdout.flush()
-#fuck you copy waly
-time.sleep(1)
+#Dev:Babar_Ali
 ##### LOGO #####
 logo = """
-\033[1;32m[+]\033[1;33mAll Reportes Has Been Sended Succesfully '
-\033[1;32m[+]\033[1;31mNote:\033[1;31mYou Can Contact To Author For Account Report '
-\033[1;32m[+]\033[1;33m+923106931542 Contact For Reporting '
+  _  _                     _ 
+ | || |_  _ _ _ _ _ _  _  | |
+ | __ | || | '_| '_| || | |_|
+ |_||_|\_,_|_| |_|  \_, | (_)
+                    |__/     
+\033[1;92m [     \033[1;91m: All Reportes Hase Been Sended Succesfully]
+\033[1;91m [        \033[1;91m: You Can Contact Author For Report\033[1;91m]
+\033[1;91m [            \033[1;97m: For Service Contact Number\033[1;91m]
+\033[1;91m [                \033[1;97m +923000223253 Whatsapp\033[1;91m
 exit()
