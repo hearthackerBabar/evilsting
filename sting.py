@@ -37,10 +37,6 @@ print """
 
 \033[1;43m\033[1;37m         😈 PUT ACCOUNT USER ID FOR REPORT 😈           \033[1;0m
 """
-try:
-	jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
-	op = json.loads(jok.text)
-print"\033[1;93mName\033[1;93m:\033[1;97m "+op["name"]]
 time.sleep(0.1)
 user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')             "
     #author Name: Babar Ali
