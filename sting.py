@@ -78,11 +78,11 @@ print '\033[1;32m[+]18 Reports Send Successfully '
 time.sleep(0.2)
 print '\033[1;32m[+]19 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m[+]20 Reports Send Successfully '
+print '\033[1;32m[+]20 Reports Send Successfully                                        '
 time.sleep(0.1)
-print '\033[1;32m[+]\033[1;36mFew Reports Has Been Sended Successfully               '  
+print '\033[1;32m[+]\033[1;33mFew Reports Has Been Sended Successfully'  
 time.sleep(3)
-print '\033[1;32m[+]\033[1;31mMore Reports in Progress                           '  
+print '\033[1;32m[+]\033[1;31mMore Reports in Progress    '  
 time.sleep(1)
 print '\033[1;32m[+]Please Wait... '
 time.sleep(20)
