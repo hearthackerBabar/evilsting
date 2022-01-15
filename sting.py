@@ -101,5 +101,4 @@ logo = """
 \033[1;92m [     \033[1;91m: All Reportes Hase Been Sended Succesfully]
 \033[1;91m [        \033[1;91m: You Can Contact Author For Report\033[1;91m]
 \033[1;91m [            \033[1;97m: For Service Contact Number\033[1;91m]
-\033[1;91m [                \033[1;97m +923000223253 Whatsapp\033[1;91m
-exit()
+\033[1;91m [                \033[1;97m +923000223253 Whatsapp\033[1;91m]
