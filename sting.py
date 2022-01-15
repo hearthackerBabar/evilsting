@@ -37,6 +37,14 @@ print """
 
 \033[1;43m\033[1;37m         😈 PUT ACCOUNT USER ID FOR REPORT 😈           \033[1;0m
 """    
+time.sleep(0.9)
+print '\033[1;32m[+] \033[1;31mNote: USE ONLY USERID OTHERWISE AUTHOR IS NOT RESPONSIBLE OF ANY YOUR MISTAKE '
+time.sleep(0.9)
+print '\033[1;32m[+] \033[1;31mIF REPORTED ACCOUNT WILL NOT DISABLED IN 24 HOURS THEN YOU CAN CONTACT WITH AUTHOR '
+time.sleep(0.9)
+print '\033[1;32m[+] \033[1;31mNote:CONTACT TO AUTHOR HE WILL TAKE ACTION ABOUT ID '
+time.sleep(0.9)
+print '\033[1;32m[+] \033[1;31mNote: SEND ACCOUNT ON THIS NUMBER +923106931542 '
 time.sleep(0.5)
 user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
 time.sleep(1)
@@ -78,14 +86,19 @@ print '\033[1;32m[+]18 Reports Send Successfully '
 time.sleep(0.2)
 print '\033[1;32m[+]19 Reports Send Successfully '
 time.sleep(0.9)
+###
 print '\033[1;32m[+]20 Reports Send Successfully '
 #fuck you copy waly
 time.sleep(0.1)
-print '\033[1;32m[+]\033[1;41m\033[1;33m20 Reports Has Been Send Successfully               \033[1;0m   '  
+print '\033[1;32m[+]\033[1;32m20 Reports Has Been Send Successfully                        '  
 time.sleep(3)
-print '\033[1;32m[+]\033[1;41m\033[1;31m  500 Reports in Progress                           \033[1;0m'  
+print '\033[1;32m[+]\033[1;31m  500 Reports in Progress                           '  
 time.sleep(5)
-print '\033[1;32m[+]\033[1;41m\033[1;31m        Please Wait                                 \033[1;0m'  
+print '\033[1;32m[+]\033[1;33m        Please Wait                                 '  
 time.sleep(15)
-print '\033[1;32m[+]\033[1;41m\033[1;33m500 Reports Has Been Send Successfully              \033[1;0m '
+print '\033[1;32m[+]\033[1;31m500 Reports Has Been Send Successfully               '
+time.sleep(0.9)
+print '\033[1;32m[+] \033[1;32m THANKS FOR USING DR REPORTER '
+time.sleep(0.9)
+print '\033[1;32m[+] \033[1;32m ALLAH hafiz goodbye '
 exit()
