@@ -43,9 +43,9 @@ time.sleep(1)
 print '\033[1;32m[+] 1 Report  Send Successfully '
 time.sleep(4)
 print '\033[1;32m[+] 2 Reports Send Successfully '
-time.sleep(0.9)
+time.sleep(3)
 print '\033[1;32m[+] 3 Reports Send Successfully '
-time.sleep(0.8)
+time.sleep(5)
 print '\033[1;32m[+] 4 Reports Send Successfully '
 time.sleep(1)
 print '\033[1;32m[+] 5 Reports Send Successfully '
@@ -78,15 +78,21 @@ print '\033[1;32m[+]18 Reports Send Successfully '
 time.sleep(0.2)
 print '\033[1;32m[+]19 Reports Send Successfully '
 time.sleep(0.9)
-###
+#fuck you copy waly
+time.sleep(0.1)
 print '\033[1;32m[+]20 Reports Send Successfully '
 #fuck you copy waly
 time.sleep(0.1)
-print '\033[1;32m[+]\033[1;32m20 Reports Has Been Send Successfully               '  
+print '\033[1;32m[+]\033[1;31mFew Reports Has Been Send Successfully               '  
 time.sleep(3)
-print '\033[1;32m[+]\033[1;31m  500 Reports in Progress                           '  
-time.sleep(5)
-print '\033[1;32m[+]\033[1;33m        Please Wait                                 '  
+print '\033[1;32m[+]\033[1;31m500 Reports in Progress                           '  
+import sys
+from time import sleep
+words = "Please Wait... Dr Reporter is Working ...."
+for char in words:
+    sleep(0.5)
+    sys.stdout.write(char)
+    sys.stdout.flush()
 time.sleep(15)
 print '\033[1;32m[+]\033[1;32m500 Reports Has Been Send Successfully               '
 time.sleep(0.9)
