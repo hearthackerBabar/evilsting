@@ -79,12 +79,10 @@ time.sleep(0.2)
 print '\033[1;32m[+]19 Reports Send Successfully '
 time.sleep(0.1)
 print '\033[1;32m[+]20 Reports Send Successfully '
-#fuck you copy waly
 time.sleep(0.1)
 print '\033[1;32m[+]\033[1;36mFew Reports Has Been Sended Successfully               '  
 time.sleep(3)
 print '\033[1;32m[+]\033[1;31m20 More Reports in Progress                           '  
-
 import sys
 from time import sleep
 words = "\033[1;32m[+]\033[1;31mPlease Wait... DR REPORTER is Working..."
@@ -93,9 +91,10 @@ for char in words:
     sys.stdout.write(char)
     sys.stdout.flush()
 #fuck you copy waly
-time.sleep(0.9)
-print'\033[1;32m[+] \033[1;33m 2o Reportes Sended Succesfully '
-#fuck you copy waly
-time.sleep(0.9)
-print'\033[1;32m[+] \033[1;33m thanks for using dr reporter good bye ALLAH hafiz '
+time.sleep(1)
+##### LOGO #####
+logo = """
+\033[1;32m[+]\033[1;33mAll Reportes Has Been Sended Succesfully '
+\033[1;32m[+]\033[1;31mNote:\033[1;31mYou Can Contact To Author For Account Report '
+\033[1;32m[+]\033[1;31mNote:\033[1;31mFor Report Account Contact At This Number +92106931542 '
 exit()
