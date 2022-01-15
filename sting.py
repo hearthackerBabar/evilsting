@@ -41,7 +41,7 @@ time.sleep(0.5)
 user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
 time.sleep(1)
 print '\033[1;32m[+] 1 Report  Send Successfully '
-time.sleep(1)
+time.sleep(4)
 print '\033[1;32m[+] 2 Reports Send Successfully '
 time.sleep(0.9)
 print '\033[1;32m[+] 3 Reports Send Successfully '
@@ -82,18 +82,13 @@ time.sleep(0.9)
 print '\033[1;32m[+]20 Reports Send Successfully '
 #fuck you copy waly
 time.sleep(0.1)
-print '\033[1;32m[+]\033[1;32m20 Reports Has Been Send Successfully                        '  
+print '\033[1;32m[+]\033[1;32m20 Reports Has Been Send Successfully               '  
 time.sleep(3)
 print '\033[1;32m[+]\033[1;31m  500 Reports in Progress                           '  
 time.sleep(5)
 print '\033[1;32m[+]\033[1;33m        Please Wait                                 '  
 time.sleep(15)
-print '\033[1;32m[+]\033[1;31m500 Reports Has Been Send Successfully               '
-time.sleep(0.9)
-print "IF REPORTED ACCOUNT WILL NOT DISABLED THAN YOU CAN CONTACT TO AUTHOR  "
-time.sleep(0.9)
-print 
-"SEND ID ON THIS NUMBER +923106931542  "
+print '\033[1;32m[+]\033[1;32m500 Reports Has Been Send Successfully               '
 time.sleep(0.9)
 print'\033[1;32m[+] \033[1;32m THANKS FOR USING DR REPORTER '
 time.sleep(0.9)
