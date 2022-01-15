@@ -80,7 +80,6 @@ print '\033[1;32m[+]19 Reports Send Successfully '
 time.sleep(0.1)
 print '\033[1;32m[+]20 Reports Send Successfully '
 #fuck you copy waly
-print logo
 time.sleep(0.1)
 print '\033[1;32m[+]\033[1;36mFew Reports Has Been Sended Successfully               '  
 time.sleep(3)
