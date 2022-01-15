@@ -83,22 +83,19 @@ time.sleep(0.1)
 print '\033[1;32m[+]20 Reports Send Successfully '
 #fuck you copy waly
 time.sleep(0.1)
-print '\033[1;32m[+]\033[1;35mFew Reports Has Been Sended Successfully               '  
+print '\033[1;32m[+]\033[1;37mFew Reports Has Been Sended Successfully               '  
 time.sleep(3)
-print '\033[1;32m[+]\033[1;31m500 Reports in Progress                           '  
+print '\033[1;32m[+]\033[1;31m20 More Reports in Progress                           '  
 
 import sys
 from time import sleep
-words = "\033[1;32m[+]\033[1;33Please Wait... DrR REPORTER is Working..."
+words = "\033[1;32m[+]\033[1;31mPlease Wait... DR REPORTER is Working..."
 for char in words:
-    sleep(0.5)
+    sleep(0.1)
     sys.stdout.write(char)
     sys.stdout.flush()
 time.sleep(15)
 #fuck you copy waly author Babar
-jalan(' \033[1;92m[+]\033[1;32m500 Reports Sended Succesfully' )
 time.sleep(0.9)
-print'\033[1;32m[+] \033[1;32m THANKS FOR USING DR REPORTER '
-time.sleep(0.9)
-print'\033[1;32m[+] \033[1;32m ALLAH hafiz goodbye '
+print'\033[1;32m[+] \033[1;33m thanks for using dr reporter good bye ALLAH hafiz '
 exit()
