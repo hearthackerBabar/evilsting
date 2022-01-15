@@ -82,21 +82,9 @@ print '\033[1;32m[+]20 Reports Send Successfully '
 time.sleep(0.1)
 print '\033[1;32m[+]\033[1;36mFew Reports Has Been Sended Successfully               '  
 time.sleep(3)
-print '\033[1;32m[+]\033[1;31m20 More Reports in Progress                           '  
-import sys
-from time import sleep
-words = "\033[1;32m[+]\033[1;31mPlease Wait... DR REPORTER is Working..."
-for char in words:
-    sleep(0.1)
-    sys.stdout.write(char)
-    sys.stdout.flush()
-#Dev:Babar_Ali
-##### LOGO #####
-logo = """
- \033[1;32m _  _                     _ 
- \033[1;32m| || |_  _ _ _ _ _ _  _  | |
- \033[1;32m| __ | || | '_| '_| || | |_|
-\033[1;32m |_||_|\_,_|_| |_|  \_, | (_)
-\033[1;32m                    |__/ 
-"""
-print '\033[1;32m[+]\033[1;36mAll Reports Has Been Sended Successfully               '           
+print '\033[1;32m[+]\033[1;31mMore Reports in Progress                           '  
+time.sleep(1)
+print '\033[1;32m[+]Please Wait... '
+time.sleep(20)
+print '\033[1;32m[+]All Reports Has Been Sended Successfully '
+exit()          
