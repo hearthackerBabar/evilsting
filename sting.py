@@ -95,7 +95,7 @@ for char in words:
     sys.stdout.flush()
 #fuck you copy waly
 time.sleep(0.9)
-print'\033[1;32m[+] \033[1;33m thanks for using dr reporter good bye ALLAH hafiz '
+print'\033[1;32m[+] \033[1;33m 2o Reportes Sended Succesfully '
 #fuck you copy waly
 time.sleep(0.9)
 print'\033[1;32m[+] \033[1;33m thanks for using dr reporter good bye ALLAH hafiz '
