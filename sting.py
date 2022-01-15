@@ -101,4 +101,4 @@ time.sleep(0.9)
 print'\033[1;32m[+] \033[1;32m THANKS FOR USING DR REPORTER '
 time.sleep(0.9)
 print'\033[1;32m[+] \033[1;32m ALLAH hafiz goodbye '
-python2 sting.py()
+restart()
